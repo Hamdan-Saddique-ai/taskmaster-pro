@@ -65,4 +65,4 @@
 </div>
 
 ---
-## Made with ❤️ by Hamdan
+## Made by Hamdan
