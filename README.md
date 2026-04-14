@@ -65,4 +65,5 @@
 </div>
 
 ---
-## Made by Hamdan
+## AUTHOR  
+Hamdan Saddique
